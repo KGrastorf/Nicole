@@ -1,0 +1,41 @@
+.oner-docs {
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 5px 12px;
+    color: white; 
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.doc {
+    background-color: #242424;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.question {
+    background-color: #4bae4f;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;    
+}
+
+.question:hover {
+    background-color: #B73636;
+    color: #ffffff;
+ }
+ .doc:hover {
+    background-color: #B73636;
+    color: #ffffff;
+ }
+
+ #customize-control-color {
+    display: none!important;
+}
+#customize-control-display_header_text > label {
+  display: none;
+}
+ 

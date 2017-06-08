@@ -1,0 +1,56 @@
+== Change Log ==
+
+= 1.2.2 =
+* Bug Fixed: Admin bar issue in mobile devices
+
+= 1.2.1 =
+* Bug Fixed: Default Header Image size from 1680x720 to 1920x1080
+* Compressed: images
+* Internationalized footer date
+* Removed: Unnecessary file css/responsive.css
+
+= 1.2 =
+* Added: Option to Display all Categories in Customizer
+* Bug Fixed: Footer overflow issue in mobile devices (Reported by voodoochill)
+* Bug Fixed: Undefined variable: metabox_feat_img
+* Code Optimization
+
+= 1.1 =
+* Bug Fixed: Background image size issue in mobile devices
+* Bug Fixed: Body Class issue when Header image is disabled
+
+= 1.0.1 =
+* Bug Fixed: primary menu search bar issue in responsive design (Reported by voodoochill)
+
+= 1.0 =
+* Bug Fixed: Replaced 'wp_reset_query' with 'wp_reset_postdata' where $wp_query is defined as global    
+* Updated: Custom CSS to Additional CSS( Core Support ) for WP version 4.7
+* Code Optimization
+
+= 0.6 =
+* Bug Fixed: Missing escaping of headline and subheadline in inc/header-highlight-content.php, inc/featured-content.php and inc/portfolio.php
+* Bug Fixed: Replaced all instances of wp_reset_query() with wp_reset_postdata()
+* Bug Fixed: Missing escaping, internationalization and post-type archive link in breadcrumb.php
+* Removed: CatchThemes logo from no-featured-image-115x115.jpg, no-featured-image-1680x720.jpg and no-featured-image-1920x800.jpg files
+
+= 0.5 =
+* Bug Fixed: Metabox values
+* Bug Fixed: esc_attresc_html__() renamed as esc_attr() in social icons email
+* Escaped: Metabox form values
+* Updated: Styles/Scripts handle standardized
+* Removed: Unnecessary Codes
+
+= 0.4 =
+* Bug Fixed: HTML raw output on comments
+* Bug Fixed: Single Page/Post Image Layout Image Size not working
+* Updated: Upgrade Button in customizer with respect to trt decision
+
+= 0.3 =
+* Bug Fixed: Homepage option not working on header image
+* Bug Fixed: Missing div.entry-container closing in portfolio
+* Removed: Unnecessary class displaynone in featured content display
+* Updated: Used the_archive_title() and the_archive_description()
+* Updated: Reset button workings in customizer
+
+= 0.2 =
+* Initial Release

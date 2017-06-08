@@ -1,0 +1,24 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Solved issue as per reviewer pointed.
+
+Version 1.2
+i) Sidebar id and class issue solved
+ii) Email make Translatable
+
+Version 1.3
+i)   Removed prefix for third-party scripts and styles.
+ii)  Removed escaped for get_template_directory_uri()
+
+Version 1.4
+i)   Translated all strings within PHP
+ii)  Correct WordPress trademark spelling
+iii) Solved prefix issue
+
+Version 1.5
+i)   Solved Demo content issue.
+
+Version 1.6
+i)   Removed  Default Demo Content

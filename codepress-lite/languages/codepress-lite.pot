@@ -1,0 +1,913 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-02-14 21:43:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+ 
+#: cl-team-widget.php:166
+#: cl-services-widget.php:213
+#@ _s
+msgid "default is 4"
+msgstr ""
+
+
+#: cl-recent-posts.php:141
+#@ _s
+msgid "default is 3"
+msgstr ""
+
+ 
+#: searchform.php:4
+#@ _s
+msgid "Search ..."
+msgstr ""
+
+#: index.php:97
+#@ _s
+msgid "No comment"
+msgstr ""
+
+#: footer.php:49
+#@ _s
+msgid "CodeTrendy"
+msgstr ""
+
+#: footer.php:49
+#@ _s
+msgid " | Powered by WordPress. Theme by "
+msgstr ""
+
+#: archive.php:104
+#: index.php:136
+#@ _s
+msgid "Newer Posts"
+msgstr ""
+
+#: archive.php:103
+#: index.php:135
+#@ _s
+msgid "Older Posts"
+msgstr ""
+
+#: 404.php:55
+#@ _s
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:52
+#@ _s
+msgid "Page NOt Found"
+msgstr ""
+
+#: 404.php:55
+#@ _s
+msgid "Oops!!"
+msgstr ""
+
+#: t-home.php:66
+#@ _s
+msgid "OR"
+msgstr ""
+
+#: customizer.php:652
+#@ _s
+msgid "Linkedin"
+msgstr ""
+
+#: customizer.php:658
+#@ _s
+msgid "Instagram"
+msgstr ""
+
+#: customizer.php:664
+#@ _s
+msgid "Pinterest"
+msgstr ""
+
+#: customizer.php:670
+#@ _s
+msgid "Tumbler"
+msgstr ""
+
+#: customizer.php:646
+#@ _s
+msgid "YouTube"
+msgstr ""
+
+#: customizer.php:640
+#@ _s
+msgid "Google-Plus"
+msgstr ""
+
+#: customizer.php:635
+#@ _s
+msgid "Twitter"
+msgstr ""
+
+#: customizer.php:630
+#@ _s
+msgid "Facebook"
+msgstr ""
+
+#: customizer.php:622
+#@ _s
+msgid "Check to activate social icons in footer"
+msgstr ""
+
+#: customizer.php:608
+#@ _s
+msgid "Social Icon Options"
+msgstr ""
+
+#: customizer.php:600
+#@ _s
+msgid "Copyright Footer Text"
+msgstr ""
+
+#: customizer.php:593
+#@ _s
+msgid "All rights reserved"
+msgstr ""
+
+#: customizer.php:586
+#@ _s
+msgid "Copyright Footer"
+msgstr ""
+
+#: customizer.php:560
+#@ _s
+msgid "Footer Settings"
+msgstr ""
+
+#: customizer.php:549
+#@ _s
+msgid "Footer Options"
+msgstr ""
+
+#: customizer.php:536
+#@ _s
+msgid "Upload default banner image  (Category, archive, search)"
+msgstr ""
+
+#: customizer.php:525
+#@ _s
+msgid "Default Banner Image"
+msgstr ""
+
+#: customizer.php:516
+#@ _s
+msgid "Upload banner image for post"
+msgstr ""
+
+#: customizer.php:505
+#@ _s
+msgid "Banner Image For Post"
+msgstr ""
+
+#: customizer.php:495
+#: customizer.php:517
+#: customizer.php:537
+#@ _s
+msgid "Upload image size of 1920px X 570px"
+msgstr ""
+
+#: customizer.php:495
+#@ _s
+msgid "Upload banner image for page"
+msgstr ""
+
+#: customizer.php:484
+#@ _s
+msgid "Banner Image For Page"
+msgstr ""
+
+#: customizer.php:470
+#@ _s
+msgid "Default Layout(Search, Archives, Nothng Found)"
+msgstr ""
+
+#: customizer.php:456
+#@ _s
+msgid "Sidebar Settings"
+msgstr ""
+
+#: customizer.php:370
+#@ _s
+msgid "Select category to show in blog template"
+msgstr ""
+
+#: customizer.php:358
+#@ _s
+msgid "Blog Options"
+msgstr ""
+
+#: customizer.php:347
+#@ _s
+msgid "Check to activate breadcrumbs"
+msgstr ""
+
+#: customizer.php:335
+#@ _s
+msgid "Activate Breadcrumbs"
+msgstr ""
+
+#: customizer.php:329
+#@ _s
+msgid "Boxed"
+msgstr ""
+
+#: customizer.php:328
+#@ _s
+msgid "Fluid"
+msgstr ""
+
+#: customizer.php:312
+#: customizer.php:324
+#@ _s
+msgid "Site Layout"
+msgstr ""
+
+#: customizer.php:305
+#@ _s
+msgid "Theme Options"
+msgstr ""
+
+#: customizer.php:303
+#@ _s
+msgid "Theme options settings here"
+msgstr ""
+
+#: customizer.php:292
+#@ _s
+msgid "Website"
+msgstr ""
+
+#: customizer.php:278
+#@ _s
+msgid "Email"
+msgstr ""
+
+#: customizer.php:264
+#@ _s
+msgid "Phone"
+msgstr ""
+
+#: customizer.php:257
+#@ _s
+msgid "+12 3 4567 8910"
+msgstr ""
+
+#: customizer.php:250
+#@ _s
+msgid "Address"
+msgstr ""
+
+#: customizer.php:235
+#: customizer.php:574
+#@ _s
+msgid "Activate in home page"
+msgstr ""
+
+#: customizer.php:220
+#@ _s
+msgid "Contact Optional setting"
+msgstr ""
+
+#: customizer.php:208
+#@ _s
+msgid "Contact form 7 shortcode"
+msgstr ""
+
+#: customizer.php:187
+#: t-home.php:29
+#@ _s
+msgid "Get in touch with us"
+msgstr ""
+
+#: customizer.php:173
+#: t-home.php:28
+#@ _s
+msgid "Contact Us"
+msgstr ""
+
+#: customizer.php:166
+#@ _s
+msgid "Contact General setting"
+msgstr ""
+
+#: customizer.php:154
+#@ _s
+msgid "Activate in home page"
+msgstr ""
+
+#: customizer.php:142
+#@ _s
+msgid "Contact Options"
+msgstr ""
+
+#: customizer.php:119
+#@ _s
+msgid "Slider Category"
+msgstr ""
+
+#: customizer.php:107
+#@ _s
+msgid "Slider Options"
+msgstr ""
+
+#: customizer.php:98
+#@ _s
+msgid "Show Tagline"
+msgstr ""
+
+#: customizer.php:85
+#@ _s
+msgid "Both"
+msgstr ""
+
+#: customizer.php:85
+#@ _s
+msgid "Title Only"
+msgstr ""
+
+#: customizer.php:84
+#@ _s
+msgid "Logo Only"
+msgstr ""
+
+#: customizer.php:81
+#@ _s
+msgid "Logo and Title"
+msgstr ""
+
+#: customizer.php:47
+#@ _s
+msgid "Sections order and Colors"
+msgstr ""
+
+#: customizer.php:31
+#@ _s
+msgid "Go Pro"
+msgstr ""
+
+#: customizer.php:16
+#@ _s
+msgid "Go Pro"
+msgstr ""
+
+
+#: codepress-functions.php:386
+#@ _s
+msgid "Error 404"
+msgstr ""
+
+#: codepress-functions.php:319
+#@ _s
+msgid "Search"
+msgstr ""
+
+#: codepress-functions.php:296
+#@ _s
+msgid "Home"
+msgstr ""
+
+#: codepress-functions.php:52
+#@ _s
+msgid "Footer 1"
+msgstr ""
+
+#: codepress-functions.php:63
+#@ _s
+msgid "Footer 2"
+msgstr ""
+
+#: codepress-functions.php:73
+#@ _s
+msgid "Footer 3"
+msgstr ""
+
+#: codepress-functions.php:83
+#@ _s
+msgid "Footer 4"
+msgstr ""
+
+#: codepress-functions.php:42
+#@ _s
+msgid "Home Page Widget"
+msgstr ""
+
+#: codepress-functions.php:22
+#@ _s
+msgid "Right sidebar"
+msgstr ""
+
+#: codepress-functions.php:24
+#: codepress-functions.php:34
+#: codepress-functions.php:44
+#: codepress-functions.php:54
+#: codepress-functions.php:65
+#: codepress-functions.php:75
+#: codepress-functions.php:85
+#@ _s
+msgid "Add widgets here."
+msgstr ""
+
+#: cl-custom-metabox.php:37
+#: codepress-functions.php:32
+#@ _s
+msgid "Left sidebar"
+msgstr ""
+
+#: cl-custom-metabox.php:42
+#@ _s
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: cl-custom-metabox.php:48
+#@ _s
+msgid "Both sidebar"
+msgstr ""
+
+#: cl-custom-metabox.php:55
+#@ _s
+msgid "No sidebar"
+msgstr ""
+
+#: cl-custom-metabox.php:72
+#@ _s
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: cl-custom-metabox.php:93
+#@ _s
+msgid "You can set up the sidebar content %1$s"
+msgstr ""
+
+#: cl-custom-metabox.php:93
+#@ _s
+msgid "Here"
+msgstr ""
+
+#: cl-widgets-fields.php:246
+#@ _s
+msgid "No file chosen"
+msgstr ""
+
+#: cl-widgets-fields.php:251
+#: cl-widgets-fields.php:805
+#@ _s
+msgid "Remove"
+msgstr ""
+
+#: cl-widgets-fields.php:251
+#@ _s
+msgid "View File"
+msgstr ""
+
+#: cl-widgets-fields.php:254
+#@ _s
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: cl-widgets-fields.php:276
+#@ _s
+msgid "View File"
+msgstr ""
+
+#: cl-widgets-fields.php:249
+#: cl-widgets-fields.php:804
+#@ _s
+msgid "Upload"
+msgstr ""
+
+
+#: cl-testimonial-widget.php:26
+#@ _s
+msgid "CL - Testimonial Widget"
+msgstr ""
+
+
+#: cl-team-widget.php:26
+#@ _s
+msgid "CL - Team Slider Widget"
+msgstr ""
+
+#: cl-single-page.php:28
+#@ _s
+msgid "CL - Single Page"
+msgstr ""
+
+#: cl-single-page.php:44
+#: codepress-functions.php:390
+#@ _s
+msgid "Page"
+msgstr ""
+
+#: cl-single-page.php:56
+#@ _s
+msgid "Show page title"
+msgstr ""
+
+#: cl-single-page.php:61
+#@ _s
+msgid "Show featured image"
+msgstr ""
+
+#: cl-single-page.php:66
+#@ _s
+msgid "Show excerpt"
+msgstr ""
+
+#: cl-single-page.php:71
+#@ _s
+msgid "Read more link text"
+msgstr ""
+
+#: cl-single-page.php:72
+#@ _s
+msgid "Leave empty for no link"
+msgstr ""
+
+#: cl-services-widget.php:26
+#@ _s
+msgid "CL - Services Layout Widget"
+msgstr ""
+
+#: cl-recent-posts.php:22
+#@ _s
+msgid "Displays Recent Posts"
+msgstr ""
+
+#: cl-recent-posts.php:25
+#@ _s
+msgid "CL - Recent Posts"
+msgstr ""
+
+#: cl-home-portfolio-widget.php:23
+#: cl-services-widget.php:23
+#: cl-single-page.php:25
+#@ _s
+msgid "Best for Home Page Sidebar"
+msgstr ""
+
+#: cl-home-portfolio-widget.php:26
+#@ _s
+msgid "CL - Home Portfolio Layout Widget"
+msgstr ""
+
+#: cl-cta-widget.php:26
+#@ _s
+msgid "Call to action. Best for Home Page Sidebar"
+msgstr ""
+
+#: cl-cta-widget.php:48
+#@ _s
+msgid "Background Image"
+msgstr ""
+
+#: cl-cta-widget.php:58
+#@ _s
+msgid "Content"
+msgstr ""
+
+#: cl-cta-widget.php:64
+#: customizer.php:133
+#@ _s
+msgid "Read More Text"
+msgstr ""
+
+#: cl-cta-widget.php:65
+#@ _s
+msgid "Leave Empty not to show"
+msgstr ""
+
+#: cl-cta-widget.php:70
+#@ _s
+msgid "Read More Link"
+msgstr ""
+
+#: cl-cta-widget.php:74
+#@ _s
+msgid "Style"
+msgstr ""
+
+#: cl-clients-widget.php:23
+#@ _s
+msgid "CL - Client Slider Widget"
+msgstr ""
+
+
+#: cl-clients-widget.php:155
+#: cl-home-portfolio-widget.php:203
+#: cl-recent-posts.php:140
+#: cl-services-widget.php:213
+#: cl-team-widget.php:165
+#@ _s
+msgid "Enter the number of post you&rsquo;d like to display"
+msgstr ""
+
+#: cl-clients-widget.php:157
+#@ _s
+#: cl-home-portfolio-widget.php:205
+#: cl-recent-posts.php:142
+#: cl-services-widget.php:215
+#: cl-team-widget.php:167
+msgid "default is 8"
+msgstr ""
+
+
+#: cl-blog-widget.php:20
+#: cl-clients-widget.php:20
+#: cl-team-widget.php:23
+#: cl-testimonial-widget.php:23
+#@ _s
+msgid "Best for Home Page"
+msgstr ""
+
+#: cl-blog-widget.php:23
+#@ _s
+msgid "CL - Blog Widget"
+msgstr ""
+
+
+#: cl-blog-widget.php:98
+#: content.php:34
+#: t-blog.php:96
+#@ _s
+msgid "by"
+msgstr ""
+
+#: cl-blog-widget.php:112
+#: codepress-functions.php:135
+#: customizer.php:126
+#: content.php:63
+#: t-blog.php:111
+#: index.php:108
+#@ _s
+msgid "Read More"
+msgstr ""
+
+
+#: cl-blog-widget.php:154
+#: cl-clients-widget.php:122
+#: cl-cta-widget.php:53
+#: cl-home-portfolio-widget.php:170
+#: cl-recent-posts.php:34
+#: cl-services-widget.php:180
+#: cl-team-widget.php:132
+#: cl-testimonial-widget.php:138
+#: customizer.php:180
+#@ _s
+msgid "Title"
+msgstr ""
+
+#: cl-blog-widget.php:160
+#: cl-clients-widget.php:128
+#: cl-home-portfolio-widget.php:176
+#: cl-services-widget.php:186
+#: cl-single-page.php:44
+#: cl-team-widget.php:138
+#: cl-testimonial-widget.php:144
+#: customizer.php:194
+#@ _s
+msgid "Description"
+msgstr ""
+
+#: cl-blog-widget.php:166
+#: cl-clients-widget.php:134
+#: cl-home-portfolio-widget.php:182
+#: cl-services-widget.php:192
+#: cl-team-widget.php:144
+#: cl-testimonial-widget.php:150
+#@ _s
+msgid "Choose Category"
+msgstr ""
+
+#: cl-blog-widget.php:168
+#: cl-clients-widget.php:136
+#: cl-home-portfolio-widget.php:184
+#: cl-services-widget.php:194
+#: cl-team-widget.php:146
+#: cl-testimonial-widget.php:152
+#@ _s
+msgid "Select Category"
+msgstr ""
+
+#: 404.php:17
+#@ _s
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+#@ _s
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:33
+#@ _s
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:51
+#, php-format
+#@ _s
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+#@ _s
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40
+#: comments.php:61
+#@ _s
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+#: comments.php:64
+#@ _s
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44
+#: comments.php:65
+#@ _s
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+#@ _s
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:18
+#@ _s
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+#@ _s
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+#@ _s
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:47
+#@ _s
+msgid "Primary"
+msgstr ""
+
+#: functions.php:102
+#@ _s
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:25
+#@ _s
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:45
+#@ _s
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+#@ _s
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+#@ _s
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50
+#: inc/template-tags.php:56
+#@ _s
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+#@ _s
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+#@ _s
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+#@ _s
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+#@ _s
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+#@ _s
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71
+#: template-parts/content-page.php:33
+#, php-format
+#@ _s
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+#@ _s
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+#@ _s
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+#@ _s
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+#@ _s
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+#@ _s
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22
+#: template-parts/content.php:68
+#@ _s
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. 
+#: template-parts/content.php:33
+#, php-format
+#@ _s
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#@ _s
+msgid "http://codetrendy.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+#@ _s
+msgid "Fully Responsive HTML5 CSS3 WordPress Theme. Codepress Lite is widgetized multipurpose theme. This theme perfectly fits with corporate, business websites."
+msgstr ""
+
+#. Author of the plugin/theme
+#@ _s
+msgid "CodeTrendy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#@ _s
+msgid "http://codetrendy.com/"
+msgstr ""
